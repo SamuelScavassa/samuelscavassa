@@ -1,7 +1,7 @@
 
 
 <div>
-  <p align="center">Olá! Tudo bem? 😃️</p>
+  <p align="center">Olá jovem padawan, seja bem vindo ao meu perfil 😃️</p>
   <p align="center">Meu nome é <a href="https://www.linkedin.com/in/samuel-melegatti-scavassa-272006210/"><i>Samuel Melegatti</i></a> e eu estudo Análise e Desenvolvimento de Sistemas na <a href="http://www.fatecriopreto.edu.br/"><i>Fatec Rio Preto</i></a>. 😃️</p>
   
 </div>
@@ -21,7 +21,9 @@
 </div>
 
 <div align="center" valign="top"><br>
-  
+  <img align="center" alt="HTML" height="30" width="40" src="assets/226777.png">
+  <img align="center" alt="HTML" height="30" width="40" src="assets/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
+  <img align="center" alt="HTML" height="30" width="40" src="assets/4990671.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
