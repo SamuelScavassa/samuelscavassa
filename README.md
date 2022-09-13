@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <a href="https://samuelscavassa.github.io/Portifolio/index.html">PORTIFÓLIO</a>
+  <p><a href="https://samuelscavassa.github.io/Portifolio/index.html">PORTIFÓLIO</a></p>
 </div>
 
 <div align="center">
