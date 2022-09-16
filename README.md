@@ -5,7 +5,7 @@
   <p align="center">Meu nome é <a href="https://www.linkedin.com/in/samuel-melegatti-scavassa-272006210/"><i>Samuel Melegatti</i></a> e eu estudo Análise e Desenvolvimento de Sistemas na <a href="http://www.fatecriopreto.edu.br/"><i>Fatec Rio Preto</i></a>. 😃️</p>
   
 </div>
-
+<br>
 <img align="right" height="350em" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 
 <div>
