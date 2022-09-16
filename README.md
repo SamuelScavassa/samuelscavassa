@@ -6,7 +6,7 @@
   
 </div>
 
-<img align="right" height="200em" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+<img align="right" height="250em" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=samuelscavassa&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
