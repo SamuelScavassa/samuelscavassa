@@ -7,7 +7,7 @@
 </div>
 
 
-<div>
+
   <div align="left">
 
      <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=samuelscavassa&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
@@ -19,7 +19,7 @@
   <div align="right">
     <img align="right" width="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
   </div>
- </div>
+ 
 
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="assets/226777.png">
