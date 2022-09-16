@@ -6,7 +6,7 @@
   
 </div>
 
-<img align="right" height="160em" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+<img align="right" height="200em" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 
 <div align="center">
  
