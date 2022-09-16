@@ -14,7 +14,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelscavassa&theme=chartreuse-dark&hide_border=false&&layout=compact"/>
 </div>
 
-<div align="right">
+<div>
   <img align="right" height="150em"  src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 </div>
  
