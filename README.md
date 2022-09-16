@@ -8,7 +8,8 @@
 
 
 <div><br>
-  <img align="right" height="150em"  src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+  <img align="right"   src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+  <br>
   <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/?username=samuelscavassa&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
   <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelscavassa&theme=chartreuse-dark&hide_border=false&&layout=compact"/><br>
 </div>
