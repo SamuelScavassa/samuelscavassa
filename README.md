@@ -15,7 +15,7 @@
 </div>
 
 <div align="right">
-  <img align="right" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+  <img align="right" height="150em"  src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 </div>
  
 </div> 
