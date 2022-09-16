@@ -15,7 +15,7 @@
 </div>
 
 <div align="right">
-  <img align="right" width="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+  <img align="right" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 </div>
  
 </div> 
