@@ -6,12 +6,10 @@
   
 </div>
 
-<img align="right" height="350em" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=SamuelScavassa&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
-  <br>
-  <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelscavassa&theme=chartreuse-dark&hide_border=false&&layout=compact"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelscavassa&theme=chartreuse-dark&hide_border=false&&layout=compact"/><br>
 </div>
 
 
@@ -37,19 +35,9 @@
   <a href="https://www.instagram.com/samuelmelegatti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-melegatti-scavassa-272006210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:samuel040103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <br>
-  <a href="https://www.hackerrank.com/melegattisamuel" target="_blank"><img src="https://redis.com/wp-content/uploads/2021/02/logo-hackerrank-wht2.png" target="_blank"></a>
 </div>
 
-<div align="center">
-  <p><a href="https://samuelscavassa.github.io/Portifolio/index.html">PORTIFÓLIO</a></p>
-</div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/SamuelScavassa/SamuelScavassa/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
